@@ -1,2 +1,1 @@
-# Discord.py_Code
-Contains Discord.py Code Examples
+# Sorry - There is nothing here yet
